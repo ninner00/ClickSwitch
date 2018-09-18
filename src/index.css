@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  html, body, #root {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+  }
+  
+ 
+  .modal-footer {
+    border-top: none!important;
+    }
+
+
+.shakeWrapper {
+
+    animation: color 1s; 
+}
+
+@keyframes color {
+    
+    0% { background: #69b7eb; }
+    10% { background: #30a5f3; }
+    20% { background: #3046ec; }
+    30% { background: #042caf; }
+    40% { background: #033d64; }
+    50% { background: #0b034d; }
+    60% { background: #69238a; }
+    70% { background: #d33ab2; }
+    80% { background: #ea1781; }
+    90%  { background: #ea1717; }
+    100%  { background: #a51212; }
+
+    /* 0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); } */
+
+    /* 0% {
+        background: #69b7eb;
+      }
+      50% {
+        background: #b3dbd3;
+      }
+      100% {
+        background: #f4d6db;
+      } */
+    }
+    

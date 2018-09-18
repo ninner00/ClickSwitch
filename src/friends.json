@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Magneto",
+    "image": "https://imgix.ranker.com/user_node_img/75/1499342/original/magneto-comic-book-characters-photo-u13?w=650&q=50&fm=jpg&fit=crop&crop=faces",
+    "occupation": "Bad Guy"
+  },
+  {
+    "id": 2,
+    "name": "Loki",
+    "image": "https://www.kickassfacts.com/wp-content/uploads/2016/11/loki.jpg",
+    "occupation": "Merc with a mouth"
+  },
+  {
+    "id": 3,
+    "name": "Sentry",
+    "image": "https://static0.cbrimages.com/wp-content/uploads/2016/11/15-strongest-avengers-sentry.jpg?q=35&w=864&h=432&fit=crop",
+    "occupation": "DemiGod"
+  },
+  {
+    "id": 4,
+    "name": "Green-Goblin",
+    "image": "https://www.kickassfacts.com/wp-content/uploads/2016/11/Green-Goblin.jpg",
+    "occupation": "Space Surfer"
+  },
+  {
+    "id": 5,
+    "name": "Thor",
+    "image": "https://static1.cbrimages.com/wp-content/uploads/2016/11/Thor-Iron-Man-Marvel-Comics.jpg?q=35&w=864&h=432&fit=crop",
+    "occupation": "Hammer-wielding god "
+  },
+  {
+    "id": 6,
+    "name": "Mephisto",
+    "image": "https://www.kickassfacts.com/wp-content/uploads/2016/11/Mephisto.jpg",
+    "occupation": "Originally known as Him"
+  },
+  {
+    "id": 7,
+    "name": "Hulk",
+"image": "https://static0.cbrimages.com/wp-content/uploads/2016/11/15-strongest-avengers-HULK.jpg?q=35&w=864&h=432&fit=crop",
+    "occupation": "SMASH"
+  },
+  {
+    "id": 8,
+    "name": "Thanos",
+    "image": "https://static0.cbrimages.com/wp-content/uploads/2018/05/Thanos-Annual.jpg?q=35&w=864&h=432&fit=crop",
+    "occupation": "Have you seen The Infinity War?"
+  },
+  {
+    "id": 9,
+    "name": "Amatsu-Mikaboshi",
+    "image": "https://cdn2.list25.com/wp-content/uploads/2017/09/Mikaboshi-610x471.jpg",
+    "occupation": "Chaos King"
+  },
+  {
+    "id": 10,
+    "name": "Galactus",
+    "image": "https://static1.cbrimages.com/wp-content/uploads/2018/05/Galactus-Alan-Davis.jpg?q=35&w=864&h=432&fit=crop",
+    "occupation": "Eatter of Planets"
+  },
+  {
+    "id": 11,
+    "name": "Spider Man",
+    "image": "https://static0.cbrimages.com/wp-content/uploads/2018/03/amazing-spider-man-fcbd-header.jpg?q=35&w=864&h=432&fit=crop",
+    "occupation": "Friendly Neighborhood Spiderman"
+  },
+  {
+    "id": 12,
+    "name": "Wolverine",
+"image": "https://static2.cbrimages.com/wp-content/uploads/2017/05/Wolverine-claws-out-in-front-of-a-flame.jpg?q=35&w=864&h=432&fit=crop",
+    "occupation": "Bad Ass"
+  }
+]

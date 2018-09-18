@@ -1,0 +1,19 @@
+{
+  "name": "click-switch",
+  "homepage": "https://ninner00.github.io/ClickSwitch",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^2.0.0",
+    "react": "^16.5.0",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.5.0",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
